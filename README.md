@@ -6,13 +6,11 @@
 
 </div>
 
-<table width="100%">
-<tr>
-<td valign="top">
+<img align="right" src="./assets/lantern.gif" width="180" alt="Cozy steaming mug" />
 
-### hey guys, i'm james!!! 
+### hey guys, i'm james!!! Welcome, and feel free to have a look around!
 
-React & JavaScript developer who likes interfaces that feel **warm**, and loves hot chocolate! ☕🍫  
+React & JavaScript developer who likes interfaces that feel **warm**. I also love hot chocolate! ☕🍫  
 Building [**The Lantern**](https://github.com/JamezM546/the-lantern) and other quiet side projects when I can 🌞
 
 ### 🏮 projects 🏮
@@ -20,19 +18,14 @@ Building [**The Lantern**](https://github.com/JamezM546/the-lantern) and other q
 - [**The Lantern**](https://github.com/JamezM546/the-lantern) · manga tracker (AniList API)
 - [**Anaphor**](https://github.com/JamezM546/Anaphor) · real-time chat + AI summaries
 - [**Merck Doc Compare**](https://github.com/JamezM546/Merck-Document-Comparison) · DOCX comparison tool
-- [**MainPortfolio**](https://github.com/JamezM546/MainPortfolio) · [**Recipe Finder**](https://github.com/JamezM546/my-recipe-finder) · [**Calculator**](https://github.com/JamezM546/cs485-CalculatorApp)
+- [**MainPortfolio**](https://github.com/JamezM546/MainPortfolio) · [**Lock System**](https://github.com/JamezM546/lock-system) · [**Recipe Finder**](https://github.com/JamezM546/my-recipe-finder)
 
-</td>
-<td align="center" valign="middle" width="160">
-  <img src="./assets/lantern.gif" width="110" alt="Glowing lantern" />
-</td>
-</tr>
-</table>
+<br clear="both" />
 
-### 🕯️ toolkit 🕯️
+### 🕯️ toolkit  🕯️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,py,git,github" alt="Tech stack" />
 </p>
 
 <div align="center">

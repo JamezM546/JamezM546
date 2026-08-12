@@ -30,6 +30,6 @@
     <circle cx="750" cy="80" r="1"><animate attributeName="opacity" values="0.25;0.95;0.25" dur="4.3s" begin="0.1s" repeatCount="indefinite"/></circle>
   </g>
 
-  <text x="450" y="62" text-anchor="middle" fill="#FFF7ED" font-family="Georgia, 'Times New Roman', serif" font-size="36" letter-spacing="1">James M</text>
-  <text x="450" y="88" text-anchor="middle" fill="#D6D3D1" font-family="Georgia, 'Times New Roman', serif" font-size="13">a quiet corner of the internet</text>
+  <text x="450" y="62" text-anchor="middle" fill="#FFF7ED" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="0.5">Hearts filled with hope will never lose their way.</text>
+  <text x="450" y="88" text-anchor="middle" fill="#D6D3D1" font-family="Georgia, 'Times New Roman', serif" font-size="14">So take your time.</text>
 </svg>
