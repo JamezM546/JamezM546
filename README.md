@@ -10,7 +10,7 @@
 
 ### hey guys, i'm james!!! Welcome, and feel free to have a look around!
 
-React & JavaScript developer who likes interfaces that feel **warm**. I also love hot chocolate! ☕🍫  
+React & JavaScript developer! Fun Fact: I also love hot chocolate! ☕🍫  
 Building [**The Lantern**](https://github.com/JamezM546/the-lantern) and other quiet side projects when I can 🌞
 
 ### 🏮 projects 🏮
