@@ -2,16 +2,16 @@
 
   <img src="./assets/banner.svg" width="100%" alt="James M night sky" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1800&color=FDE68A&center=true&vCenter=true&width=400&height=32&lines=Building+calm+web+apps;Manga%2C+tea%2C+%26+late-night+commits" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1800&color=FDE68A&center=true&vCenter=true&width=400&height=32&lines=Building+fun+web+apps;Manga%2C+tea%2C+%26+late-night+commits" alt="Typing" />
 
 </div>
 
 <img align="right" src="./assets/lantern.gif" width="180" alt="Cozy steaming mug" />
 
-### hey guys, i'm james!!! Welcome, and feel free to have a look around!
+### hey guys, i'm james!!! welcome, and feel free to have a look around!
 
-React & JavaScript developer who likes interfaces that feel **warm**. I also love hot chocolate! ☕🍫  
-Building [**The Lantern**](https://github.com/JamezM546/the-lantern) and other quiet side projects when I can 🌞
+React & JavaScript developer who likes interfaces that feel **cozy**. I also love hot chocolate! ☕🍫  
+Building [**The Lantern**](https://github.com/JamezM546/the-lantern) and other quiet side projects when I can 😎
 
 ### 🏮 projects 🏮
 
