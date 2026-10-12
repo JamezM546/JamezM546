@@ -11,7 +11,7 @@
 ### hey guys, i'm james!!! welcome, and feel free to have a look around!
 
 React & JavaScript developer! Fun Fact: I love hot chocolate! ☕🍫  
-Building [**The Lantern**](https://github.com/JamezM546/the-lantern) and other quiet side projects when I can 😎
+Building [**The Lantern**](https://github.com/JamezM546/the-lantern) and other fun side projects when I can 😎
 
 ### 🏮 projects 🏮
 
